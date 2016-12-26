@@ -1,2 +1,2 @@
-# test-repo
-This is a test repo edited.
+# indeed-api
+A repo for using indeed api.
